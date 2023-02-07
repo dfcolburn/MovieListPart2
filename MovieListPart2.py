@@ -1,4 +1,4 @@
-FILENAME = "movies.txt"
+FILENAME = "Movies.txt"
 
 def write_movies(movies):
     with open(FILENAME, "w") as file:
